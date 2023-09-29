@@ -20,7 +20,7 @@
     </queries>
     
     <application
-        android:label="Teen patti master"
+        android:label="My app name"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
